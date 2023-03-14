@@ -1,6 +1,6 @@
 import Axios from 'axios';
 
-let BASE_URL = "https://ecommerce-backend-vgi3.onrender.com";
+let BASE_URL = "https://sheethal-ecommerce-service.onrender.com";
 
 const axios = Axios.create({
   baseURL: BASE_URL,
